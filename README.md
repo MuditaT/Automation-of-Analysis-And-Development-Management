@@ -3,6 +3,9 @@ This project is about automating, the status tracking of various projects. This 
 Admin  allocates  the  project(query)  to  particular  manager of  a  particular client with the query code , query  name ,  and  time limit of particular  project. The system  keeps  track  of  documents  that  have  to  be  completed  within  a  particular  duration.
 ## Implemented using PHP and MongoDB.
 
-|Sign Up Table|
-|Sr.No|Field Name|Data Type|Other Information|Description|
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
