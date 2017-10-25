@@ -3,7 +3,7 @@ SESSION_START();
 ?>
 <html>
 <head>
-<title> SDLC PARTNERS</title>
+<title> SDLC</title>
 <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body id="full">
@@ -45,7 +45,7 @@ else
 </div>
 <br>
 <br>
-<p id="col">SDLC Partners set out to provide clients with high-quality execution
+<p id="col">SDLC set out to provide clients with high-quality execution
 services that results in real business value and tangible customer
 outcomes.<br> We do this by working effectively with business and IT and
 by leveraging industry best practices so that we can become the
