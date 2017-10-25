@@ -3,7 +3,7 @@ SESSION_START();
 ?>
 <html>
 <head>
-<title> SDLC PARTNERS</title>
+<title> SDLC</title>
 <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body id="full">
@@ -44,7 +44,7 @@ else
 </ul>
 </div>>
 <p id="con"><strong><u>CONTACT US<u></strong></p>
-<p id="con1"><br><br>ADDRESS:-MIT College Of Engineering,<br>Paud Road,<br>Kothrud<br>PUNE,411038<br>MAHARASHTRA,INDIA<br>Tel:-+91 9822366991<br>FAX:-+91 1234567890</p>
+<p id="con1"><br><br>Mudita Tandon<br>Rutgers University<br>New Brunswick, USA<br>Tel:-+1(650)6958885<br>FAX:-+91 1234567890</p>
 <?php include("footer.php");
 ?>
 </body>
