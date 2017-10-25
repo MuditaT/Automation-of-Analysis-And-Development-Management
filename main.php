@@ -3,7 +3,7 @@ SESSION_START();
 ?>
 <html>
 <head>
-<title> SDLC </title>
+<title> SDLC</title>
 <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body id="full">
