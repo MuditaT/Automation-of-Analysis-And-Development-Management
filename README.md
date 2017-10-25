@@ -50,7 +50,7 @@ Admin  allocates  the  project(query)  to  particular  manager of  a  particular
 
 ## Summary
 
-When new user signs up, he has to fill up a form and has to specify his query details and time limit.  After completion of sign up, user then signs in…Here he enters his username and password.. After signing in, he enters the query related to the 
+When new user signs up, he has to fill up a form and has to specify his query details and time limit.  After completion of sign up, user then signs in.Here he enters his username and password.. After signing in, he enters the query related to the 
 Time limit and priority of that query that is whether it is critical, high, medium or low. Also he is able to see what the status of his query is.
 		This query is then given to the administrator. Administrator assigns the task to resolve the query submitted by the user to the one particular manager, out of three. Administrator does this task depending upon the field in which that particular manager is expert.
            Manager then updates status of the query to “in progress” or to “completed”. If manager is still working on that query then status will be “in progress”. If manager is done with his task, then status will be “completed”.
