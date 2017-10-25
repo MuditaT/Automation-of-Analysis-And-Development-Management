@@ -13,7 +13,7 @@ Admin  allocates  the  project(query)  to  particular  manager of  a  particular
 |2     |FIRST NAME |	TEXT|	SIZE:AUTOMATIC |WRITE  YOUR FIRST NAME|
 |3	|LAST NAME|	TEXT	|SIZE:AUTOMATIC|	WRITE YOUR FIRST NAME|
 |4	|MOBILE NUMBER|	INTEGER	|MANDATORY FIELD	|PROVIDE 10 DIGITS MOBILE NUMBER|
-|5	|STD NUMBER	|INTEGER	|OPTIONAL FIELD	|PROVIDE STD CODE(OPTIONAL)|
+|5	|STD NUMBER	|INTEGER	|OPTIONAL FIELD	|PROVIDE STD CODE|
 |6	|TELEPHONE NUMBER|	INTEGER	|OPTIONAL FIELD	|PROVIDE  TELEPHONE NUMBER IF ANY|
 |7	|USERNAME	|ALPHANUMERIC|	MANDATORY FIELD	|UNIQUE USERNAME|
 |8|	PASSWORD	|ALPHANUMERIC|	MANDATORY FIELD	|PASSWORD|
@@ -52,7 +52,7 @@ Admin  allocates  the  project(query)  to  particular  manager of  a  particular
 
 When new user signs up, he has to fill up a form and has to specify his query details and time limit.  After completion of sign up, user then signs in…Here he enters his username and password.. After signing in, he enters the query related to the 
 Time limit and priority of that query that is whether it is critical, high, medium or low. Also he is able to see what the status of his query is.
-		This query is then given to the administrator. Administrator assigns the task to resolve the query submitted by the user to the one particular manager. Out of three. Administrator does this task depending upon the field in which that particular manager is expert.
+		This query is then given to the administrator. Administrator assigns the task to resolve the query submitted by the user to the one particular manager, out of three. Administrator does this task depending upon the field in which that particular manager is expert.
            Manager then updates status of the query to “in progress” or to “completed”. If manager is still working on that query then status will be “in progress”. If manager is done with his task, then status will be “completed”.
                          This status is then given to the administrator as well as to the user who had submitted the query.
 
