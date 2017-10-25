@@ -3,13 +3,13 @@ SESSION_START();
 ?>
 <html>
 <head>
-<title> SDLC PARTNERS</title>
+<title> SDLC</title>
 <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body id="full">
 <div id="head">
 <div id="head_cen">
-<div id="logo"><a href="main.php"><img src="images.jpg" alt="SDLC PARTNERS LOGO" style="width:160px;height:80px"></a><p><center>"YOUR VISSION OUR FUTURE"<center></p>
+<div id="logo"><a href="main.php"><img src="images.jpg" alt="SDLC LOGO" style="width:160px;height:80px"></a><p><center>"YOUR VISSION OUR FUTURE"<center></p>
 </div>
 <div id="login">
 <?php
@@ -48,8 +48,8 @@ else
 </div>
 <br>
 <h4 id="m_spec">
-<strong><font color="red">SDLC PARTNERS</font></strong>  is one of five business units within SDLC PARTNERS Electronics
-, belonging to the SDLC PARTNERS Group, <br>and consists of the Mobile
+<strong><font color="red">SDLC</font></strong>  is one of five business units within SDLC Electronics
+, belonging to the SDLC Group, <br>and consists of the Mobile
  Communications Division, Telecommunication Systems Division, Computer Division, 
  MP3 Business Team, <br>Mobile Solution Centre and Telecommunication R&D Centre. Telecommunication Business produces 
  a full spectrum of products <br>from mobiles and other mobile devices such
