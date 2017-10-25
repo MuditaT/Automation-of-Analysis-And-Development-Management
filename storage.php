@@ -3,13 +3,13 @@ SESSION_START();
 ?>
 <html>
 <head>
-<title> SDLC PARTNERS</title>
+<title> SDLC</title>
 <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body id="full">
 <div id="head">
 <div id="head_cen">
-<div id="logo"><a href="main.php"><img src="images.jpg" alt="SDLC PARTNERS LOGO" style="width:160px;height:80px"></a><p><center>"YOUR VISSION OUR FUTURE"<center></p>
+<div id="logo"><a href="main.php"><img src="images.jpg" alt="SDLC LOGO" style="width:160px;height:80px"></a><p><center>"YOUR VISSION OUR FUTURE"<center></p>
 </div>
 <div id="login">
 <?php
@@ -47,7 +47,7 @@ else
 <center><img src="storage.jpg" style="width:900px;height:250px"></center>
 </div>
 <h4 id="m_spec">
-<strong><font color="red">SDLC SDLC PARTNERS STORAGE DEVICE FEATURES</font></strong><br>
+<strong><font color="red">SDLC STORAGE DEVICE FEATURES</font></strong><br>
     1 Functionality<br>
     2 Data organization and representation<br>
     3 Hierarchy of storage<br>
