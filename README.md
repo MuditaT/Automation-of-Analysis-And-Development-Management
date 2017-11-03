@@ -5,7 +5,7 @@ Admin  allocates  the  project(query)  to  particular  manager of  a  particular
 
 # Data Dictionary
 
-* Sign Up table
+* Sign Up table 
 
 |SR.NO|FIELD NAME|DATA TYPE|OTHER INFO|DESCRIPTION|
 |-----|:--------:|:-------:|:--------:|---------:|
